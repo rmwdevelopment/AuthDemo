@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|c:\\users\\wykof\\fall2026asp.net\\authenticationandauthorization\\authdemo\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|c:\\users\\wykof\\fall2026asp.net\\authenticationandauthorization\\authdemo\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|solutionrelative:pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|c:\\users\\wykof\\fall2026asp.net\\authenticationandauthorization\\authdemo\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|c:\\users\\wykof\\fall2026asp.net\\authenticationandauthorization\\authdemo\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|solutionrelative:pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|c:\\users\\wykof\\fall2026asp.net\\authenticationandauthorization\\authdemo\\pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|solutionrelative:pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|c:\\users\\wykof\\fall2026asp.net\\authenticationandauthorization\\authdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF1CDEF-45E3-0E2E-EF49-F0F0A19F95C8}|AuthDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T00:42:31.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T00:36:56.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Admin.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T00:04:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T00:01:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:55:27.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\AuthenticationAndAuthorization\\AuthDemo\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:53:49.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
